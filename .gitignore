@@ -1,0 +1,27 @@
+# Python & Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+env/
+.venv/
+
+# Environment Variables 
+.env
+.envux
+
+# Database SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# AI Models & Weights
+*.pt
+*.pth
+runs/
+best.pt
+
+# Editor & OS Files
+.vscode/
+.idea/
+.DS_Store

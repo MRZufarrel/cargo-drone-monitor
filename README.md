@@ -45,7 +45,7 @@ Sistem monitoring kargo drone berbasis AI yang mengintegrasikan model deteksi ta
 
 4. **Jalankan aplikasi Streamlit:**
    ```bash
-   streamlit run app.py
+   py -m streamlit run dashboard.py
    ```
 
 ---
